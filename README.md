@@ -4,6 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
+Packages used:get: ^4.6.5
+flutter_svg: ^1.1.6
+flutter_lints: ^2.0.0
+cupertino_icons: ^1.0.2
+
+Video link:https://drive.google.com/file/d/1XfUvuQVujbMTX9Z3DnKOasgoV8oIBSV_/view?usp=sharing
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
